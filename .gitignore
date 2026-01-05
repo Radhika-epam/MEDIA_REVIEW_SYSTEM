@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+media_review.db
+.env
