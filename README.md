@@ -75,7 +75,7 @@ The application allows users to review media (movies, songs, series), mark favor
 ## Project Structure
 
 ```
-media-review-system/
+MEDIA_REVIEW_SYSTEM/
 │
 ├── media_review.py        # CLI application (entry point)
 ├── database.py            # SQLite database setup & connection
